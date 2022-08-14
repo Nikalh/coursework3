@@ -3,8 +3,8 @@ import pytest
 import main
 from config import DATA_PATH_POSTS
 
-key_data = {"poster_name", "poster_avatar", "pic", "content", "views_count", "likes_count",
-            "pk"}
+# key_data = {"poster_name", "poster_avatar", "pic", "content", "views_count", "likes_count",
+#             "pk"}
 
 class Test_api:
 
